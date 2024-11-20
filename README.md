@@ -24,7 +24,7 @@ The data was sourced from the World Bank API. Indicators used include:
 11. **literacy_rate**: The percentage of the population aged 15 and above that can read and write.
 
 #### Dataset Source
-[World Bank API Dataset](https://www.kaggle.com/code/gcmadhan/unsupervised-learning-countries-need-finance)
+[World Bank API Dataset](https://datahelpdesk.worldbank.org/knowledgebase/articles/898590-country-api-queries)
 </br></br>
 
 ## Key Phases of the Project
