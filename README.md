@@ -58,6 +58,8 @@ This clustering approach can be applied in several real-world contexts:
 ## Conclusion
 The project successfully demonstrated how unsupervised learning can be used to group countries based on their socio-economic characteristics. By applying KMeans clustering, we identified three distinct clusters that provide valuable insights into countries’ socio-economic backgrounds. The model's performance was evaluated using the **Calinski-Harabasz score**, which indicated that KMeans performed better than hierarchical clustering in this case.
 
+![image](https://github.com/user-attachments/assets/c7c51862-7d17-4836-8373-fd36ff151ec1)
+
 The following table summarizes the predicted clusters and their corresponding socio-economic profiles:
 
 | Cluster ID | Countries in the Cluster | Socio-Economic Profile |
